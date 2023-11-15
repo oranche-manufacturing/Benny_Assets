@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9784"
-	"mapversion" "294"
+	"mapversion" "295"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "294"
+	"mapversion" "295"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -36322,7 +36322,7 @@ entity
 		{
 			"id" "1126"
 			"plane" "(-128 1018 122) (-128 1024 122) (454 1024 122)"
-			"material" "WOOD/WOODSHELF002A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -144] 0.15"
 			"vaxis" "[0 -1 0 21.3333] 0.15"
 			"rotation" "0"
@@ -36333,7 +36333,7 @@ entity
 		{
 			"id" "1125"
 			"plane" "(-128 1024 43) (-128 1018 43) (454 1018 43)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -144] 0.15"
 			"vaxis" "[0 -1 0 21.3333] 0.15"
 			"rotation" "0"
@@ -36344,7 +36344,7 @@ entity
 		{
 			"id" "1124"
 			"plane" "(-128 1018 43) (-128 1024 43) (-128 1024 122)"
-			"material" "WOOD/WOODSHELF002A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[0 1 0 -21.3334] 0.15"
 			"vaxis" "[0 0 -1 -42.6666] 0.15"
 			"rotation" "0"
@@ -36355,7 +36355,7 @@ entity
 		{
 			"id" "1123"
 			"plane" "(454 1024 43) (454 1018 43) (454 1018 122)"
-			"material" "WOOD/WOODSHELF002A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[0 1 0 -21.3334] 0.15"
 			"vaxis" "[0 0 -1 -42.6666] 0.15"
 			"rotation" "0"
@@ -36366,7 +36366,7 @@ entity
 		{
 			"id" "1122"
 			"plane" "(-128 1024 43) (454 1024 43) (454 1024 122)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -144] 0.15"
 			"vaxis" "[0 0 -1 -42.6666] 0.15"
 			"rotation" "0"
@@ -36377,7 +36377,7 @@ entity
 		{
 			"id" "1121"
 			"plane" "(454 1018 43) (-128 1018 43) (-128 1018 122)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -144] 0.15"
 			"vaxis" "[0 0 -1 -42.6666] 0.15"
 			"rotation" "0"
@@ -36398,7 +36398,7 @@ entity
 		{
 			"id" "1132"
 			"plane" "(-122 999 70) (-122 1018 70) (448 1018 70)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -104] 0.15"
 			"vaxis" "[0 -1 0 54.6667] 0.15"
 			"rotation" "0"
@@ -36409,7 +36409,7 @@ entity
 		{
 			"id" "1131"
 			"plane" "(-122 1018 68) (-122 999 68) (448 999 68)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -104] 0.15"
 			"vaxis" "[0 -1 0 54.6667] 0.15"
 			"rotation" "0"
@@ -36420,7 +36420,7 @@ entity
 		{
 			"id" "1130"
 			"plane" "(-122 999 68) (-122 1018 68) (-122 1018 70)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[0 1 0 -54.6667] 0.15"
 			"vaxis" "[0 0 -1 -118.667] 0.15"
 			"rotation" "0"
@@ -36431,7 +36431,7 @@ entity
 		{
 			"id" "1129"
 			"plane" "(448 1018 68) (448 999 68) (448 999 70)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[0 1 0 -54.6667] 0.15"
 			"vaxis" "[0 0 -1 -118.667] 0.15"
 			"rotation" "0"
@@ -36442,7 +36442,7 @@ entity
 		{
 			"id" "1128"
 			"plane" "(-122 1018 68) (448 1018 68) (448 1018 70)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -104] 0.15"
 			"vaxis" "[0 0 -1 -118.667] 0.15"
 			"rotation" "0"
@@ -36453,7 +36453,7 @@ entity
 		{
 			"id" "1127"
 			"plane" "(448 999 68) (-122 999 68) (-122 999 70)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -104] 0.15"
 			"vaxis" "[0 0 -1 -118.667] 0.15"
 			"rotation" "0"
@@ -36550,7 +36550,7 @@ entity
 		{
 			"id" "1144"
 			"plane" "(-122 999 100) (-122 1018 100) (448 1018 100)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -104] 0.15"
 			"vaxis" "[0 -1 0 54.6667] 0.15"
 			"rotation" "0"
@@ -36561,7 +36561,7 @@ entity
 		{
 			"id" "1143"
 			"plane" "(-122 1018 98) (-122 999 98) (448 999 98)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -104] 0.15"
 			"vaxis" "[0 -1 0 54.6667] 0.15"
 			"rotation" "0"
@@ -36572,7 +36572,7 @@ entity
 		{
 			"id" "1142"
 			"plane" "(-122 999 98) (-122 1018 98) (-122 1018 100)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[0 1 0 -54.6667] 0.15"
 			"vaxis" "[0 0 -1 -46.6666] 0.15"
 			"rotation" "0"
@@ -36583,7 +36583,7 @@ entity
 		{
 			"id" "1141"
 			"plane" "(448 1018 98) (448 999 98) (448 999 100)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[0 1 0 -54.6667] 0.15"
 			"vaxis" "[0 0 -1 -46.6666] 0.15"
 			"rotation" "0"
@@ -36594,7 +36594,7 @@ entity
 		{
 			"id" "1140"
 			"plane" "(-122 1018 98) (448 1018 98) (448 1018 100)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -104] 0.15"
 			"vaxis" "[0 0 -1 -46.6666] 0.15"
 			"rotation" "0"
@@ -36605,7 +36605,7 @@ entity
 		{
 			"id" "1139"
 			"plane" "(448 999 98) (-122 999 98) (-122 999 100)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[1 0 0 -104] 0.15"
 			"vaxis" "[0 0 -1 -46.6666] 0.15"
 			"rotation" "0"
@@ -37300,9 +37300,9 @@ entity
 		{
 			"id" "2207"
 			"plane" "(2928 79 250) (2928 73 250) (2346 73 250)"
-			"material" "WOOD/WOODSHELF002A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 90.668] 0.15"
-			"vaxis" "[0 1 0 387.999] 0.15"
+			"vaxis" "[0 1 0 131.999] 0.15"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -37311,7 +37311,7 @@ entity
 		{
 			"id" "2206"
 			"plane" "(2928 73 171) (2928 79 171) (2346 79 171)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 90.6679] 0.15"
 			"vaxis" "[0 1 0 131.999] 0.15"
 			"rotation" "0"
@@ -37322,9 +37322,9 @@ entity
 		{
 			"id" "2205"
 			"plane" "(2928 79 171) (2928 73 171) (2928 73 250)"
-			"material" "WOOD/WOODSHELF002A"
-			"uaxis" "[0 -1 0 -388] 0.15"
-			"vaxis" "[0 0 -1 298.667] 0.15"
+			"material" "WOOD/WOODSTAIR002B"
+			"uaxis" "[0 -1 0 -132] 0.15"
+			"vaxis" "[0 0 -1 42.667] 0.15"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -37333,9 +37333,9 @@ entity
 		{
 			"id" "2204"
 			"plane" "(2346 73 171) (2346 79 171) (2346 79 250)"
-			"material" "WOOD/WOODSHELF002A"
-			"uaxis" "[0 -1 0 -388] 0.15"
-			"vaxis" "[0 0 -1 298.667] 0.15"
+			"material" "WOOD/WOODSTAIR002B"
+			"uaxis" "[0 -1 0 -132] 0.15"
+			"vaxis" "[0 0 -1 42.667] 0.15"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -37344,7 +37344,7 @@ entity
 		{
 			"id" "2203"
 			"plane" "(2928 73 171) (2346 73 171) (2346 73 250)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 90.6679] 0.15"
 			"vaxis" "[0 0 -1 42.6667] 0.15"
 			"rotation" "0"
@@ -37355,7 +37355,7 @@ entity
 		{
 			"id" "2202"
 			"plane" "(2346 79 171) (2928 79 171) (2928 79 250)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 90.6679] 0.15"
 			"vaxis" "[0 0 -1 42.6667] 0.15"
 			"rotation" "0"
@@ -37376,7 +37376,7 @@ entity
 		{
 			"id" "2213"
 			"plane" "(2922 98 198) (2922 79 198) (2352 79 198)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 130.668] 0.15"
 			"vaxis" "[0 1 0 -90.6667] 0.15"
 			"rotation" "0"
@@ -37387,7 +37387,7 @@ entity
 		{
 			"id" "2212"
 			"plane" "(2922 79 196) (2922 98 196) (2352 98 196)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 130.668] 0.15"
 			"vaxis" "[0 1 0 -90.6667] 0.15"
 			"rotation" "0"
@@ -37398,7 +37398,7 @@ entity
 		{
 			"id" "2211"
 			"plane" "(2922 98 196) (2922 79 196) (2922 79 198)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[0 -1 0 90.6667] 0.15"
 			"vaxis" "[0 0 -1 222.666] 0.15"
 			"rotation" "0"
@@ -37409,7 +37409,7 @@ entity
 		{
 			"id" "2210"
 			"plane" "(2352 79 196) (2352 98 196) (2352 98 198)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[0 -1 0 90.6667] 0.15"
 			"vaxis" "[0 0 -1 222.666] 0.15"
 			"rotation" "0"
@@ -37420,7 +37420,7 @@ entity
 		{
 			"id" "2209"
 			"plane" "(2922 79 196) (2352 79 196) (2352 79 198)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 130.668] 0.15"
 			"vaxis" "[0 0 -1 222.666] 0.15"
 			"rotation" "0"
@@ -37431,7 +37431,7 @@ entity
 		{
 			"id" "2208"
 			"plane" "(2352 98 196) (2922 98 196) (2922 98 198)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 130.668] 0.15"
 			"vaxis" "[0 0 -1 222.666] 0.15"
 			"rotation" "0"
@@ -37528,7 +37528,7 @@ entity
 		{
 			"id" "2225"
 			"plane" "(2922 98 228) (2922 79 228) (2352 79 228)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 130.668] 0.15"
 			"vaxis" "[0 1 0 -90.6667] 0.15"
 			"rotation" "0"
@@ -37539,7 +37539,7 @@ entity
 		{
 			"id" "2224"
 			"plane" "(2922 79 226) (2922 98 226) (2352 98 226)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 130.668] 0.15"
 			"vaxis" "[0 1 0 -90.6667] 0.15"
 			"rotation" "0"
@@ -37550,7 +37550,7 @@ entity
 		{
 			"id" "2223"
 			"plane" "(2922 98 226) (2922 79 226) (2922 79 228)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[0 -1 0 90.6667] 0.15"
 			"vaxis" "[0 0 -1 38.6667] 0.15"
 			"rotation" "0"
@@ -37561,7 +37561,7 @@ entity
 		{
 			"id" "2222"
 			"plane" "(2352 79 226) (2352 98 226) (2352 98 228)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[0 -1 0 90.6667] 0.15"
 			"vaxis" "[0 0 -1 38.6667] 0.15"
 			"rotation" "0"
@@ -37572,7 +37572,7 @@ entity
 		{
 			"id" "2221"
 			"plane" "(2922 79 226) (2352 79 226) (2352 79 228)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 130.668] 0.15"
 			"vaxis" "[0 0 -1 38.6667] 0.15"
 			"rotation" "0"
@@ -37583,7 +37583,7 @@ entity
 		{
 			"id" "2220"
 			"plane" "(2352 98 226) (2922 98 226) (2922 98 228)"
-			"material" "WOOD/WOODWALL010A"
+			"material" "WOOD/WOODSTAIR002B"
 			"uaxis" "[-1 0 0 130.668] 0.15"
 			"vaxis" "[0 0 -1 38.6667] 0.15"
 			"rotation" "0"
