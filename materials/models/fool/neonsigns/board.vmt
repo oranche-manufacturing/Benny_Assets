@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/fool/neonsigns/board"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+}
