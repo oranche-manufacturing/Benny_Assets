@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	$basetexture "benny_mansion/Tiles081_1K-JPG_Color"
+	$bumpmap "benny_mansion/Tiles081_1K-JPG_NormalDX"
+	$surfaceprop Tile
+
+	$envmap "env_cubemap"
+	$envmapmask "benny_mansion/Tiles081_1K-JPG_Roughness"
+	$envmapcontrast 0.3
+	$fresnelreflection 0.55
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 1]"
+}
