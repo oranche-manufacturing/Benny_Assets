@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "benny_barcade/arcade_wall_1_A"
+	$bumpmap "benny_barcade/arcade_wall_1_N"
+}
