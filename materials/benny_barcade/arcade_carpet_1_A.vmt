@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "benny_barcade/arcade_carpet_1_A"
+	$surfaceprop Carpet
+}
