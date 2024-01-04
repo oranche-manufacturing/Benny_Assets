@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture"		"benny/wep/melee/atlas_melee"
+	"$bumpmap"		"benny/wep/melee/n"
+	"$pointsamplemagfilter"	1
+
+	"$phong" 		"1"
+	"$phongexponent"	 	"24"
+//	"$phongalbedotint" 		"1"
+	"$phongboost" 		"0.1"
+	"$phongfresnelranges"    	"[.3 .3 .3]"
+}
